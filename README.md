@@ -1,4 +1,5 @@
 # Machine-Learning-following-Tang
 
 - Following Doc. Tang Yudi
-- Review 
+- Review machine learing algorithms
+
